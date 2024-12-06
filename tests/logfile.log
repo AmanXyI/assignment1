@@ -1,0 +1,9 @@
+2024-12-06 10:15:07,573 :INFO : test_main : signup successful
+2024-12-06 10:15:08,336 :INFO : test_main : login successful
+2024-12-06 10:15:16,852 :INFO : test_main : Product added to cart
+2024-12-06 10:15:17,845 :INFO : test_main : order placed
+2024-12-06 10:46:20,911 :INFO : test_main : signup successful
+2024-12-06 10:47:51,325 :INFO : test_main : signup successful
+2024-12-06 10:47:52,005 :INFO : test_main : login successful
+2024-12-06 10:48:00,118 :INFO : test_main : Product added to cart
+2024-12-06 10:48:01,054 :INFO : test_main : order placed
